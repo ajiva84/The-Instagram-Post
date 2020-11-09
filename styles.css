@@ -1,0 +1,75 @@
+
+.container{
+
+    width: 500px;
+    height: 600px;
+ 
+    margin: 0 auto;
+
+}
+.container-head{
+
+    display:flex;
+    background: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.html-head {
+    flex-grow: 0.05;
+}
+
+.html-text {
+    flex-grow: 2;
+}
+#htmlfont {
+
+font-family: 'Franklin Gothic Medium';
+}
+
+body {
+
+    background: black;
+}
+
+.footer-fonts {
+
+    display: flex;
+    padding-top: 10px;
+}
+
+
+.container-footer{
+
+    background: white;
+    font-family:  Calibri;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.container-body{
+    width: 400px;
+    height: 400px;
+}
+
+.font-3 {
+    flex-grow: 3;
+}
+
+.font-1 {
+    flex-grow: 0.1;
+}
+
+.font-2 {
+    flex-grow: 0.1;
+}
+
+.font-4 {
+    flex-grow: 0.1;
+}
+
+.third-box-head {
+
+    margin-right: 10px;
+}
